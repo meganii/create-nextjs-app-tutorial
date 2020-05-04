@@ -14,7 +14,7 @@ export default function Home() {
           Learn <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
-        <Link href="/posts/first-post/">first-post</Link>
+        <Link href="/posts/first-post">first-post</Link>
 
         <p className="description">
           Get started by editing <code>pages/index.js</code>
