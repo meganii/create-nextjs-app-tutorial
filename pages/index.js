@@ -31,7 +31,6 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
       </section>
-      <Link href="/posts/first-post">first page</Link>
     </Layout>
   )
 }
